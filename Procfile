@@ -1,0 +1,1 @@
+worker: python sketch_bot.py
